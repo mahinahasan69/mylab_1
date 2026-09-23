@@ -21,6 +21,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.myapplicationbnew.ui.theme.MyApplicationBnewTheme
 
 class MainActivity : ComponentActivity() {
+    //Code for revert
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
